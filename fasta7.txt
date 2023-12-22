@@ -1,0 +1,8 @@
+>SQUIRREL
+ctctaccgtctggctgatctgatcgag
+>DOLPHIN
+ctgaaccgcctggctgatctgattgag
+>CAT
+ctgaaccgcctggctgatctgattgag
+>HEDGEHOG
+ctgaaccgcctggctgaccttattgag

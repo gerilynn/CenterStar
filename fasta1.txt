@@ -1,0 +1,4 @@
+>SEQUENCE_1
+acccagtcgac
+>SEQUENCE_2
+yyyyyacccayy

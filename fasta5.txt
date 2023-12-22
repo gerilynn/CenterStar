@@ -1,0 +1,8 @@
+>SEQ0
+actctcgatc
+>SEQ1
+acttcgatc
+>SEQ2	
+actctctatc
+>SEQ3
+actctctaatc
