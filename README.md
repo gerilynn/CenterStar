@@ -3,7 +3,9 @@ Multiple Sequence Alignment
 
 INPUT:
 hardcoded to run fasta input from strings on "fasta5.txt" file
+
 args[0] is mismatch distance score (positive because we care trying to minimize this score)
+
 args[1] is indel distance score
 
 OUTPUT
